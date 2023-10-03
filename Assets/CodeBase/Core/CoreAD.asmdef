@@ -1,0 +1,20 @@
+{
+    "name": "CoreAD",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:073da5849996d89488d90250e4e80f22",
+        "GUID:08925307728c48544bf184f1e9b84495",
+        "GUID:6bb4b6a98a2fcc84e9d8b53de5b02405"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
